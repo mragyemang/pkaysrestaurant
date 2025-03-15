@@ -1,0 +1,73 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: black;
+  background-image: url(Images/Background2.jpg);
+  background-size: auto;
+  background-position: auto;
+}
+.container {
+  padding-left: auto;
+  padding-right: auto;
+  width: auto;
+}
+header {
+  height: 50px;
+  background-color: rgba(78, 162, 173, 0.384);
+}
+header img {
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+header p {
+  text-align: center;
+  float: left;
+  padding-bottom: 25px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+nav {
+  height: 30px;
+  background-color: rgba(173, 111, 78, 0.384);
+  text-align: center;
+  padding-left: auto;
+  padding-right: auto;
+}
+nav a {
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+main {
+  height: 350px;
+  /* background-color: aquamarine;*/
+}
+main h1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 20px;
+}
+.info1 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
+.info2 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
