@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.139);
+  /*background-image: url(Images/Background2.jpg);*/
+  background-size: auto;
+  background-position: auto;
+}
+header {
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+.container {
+  width: auto;
+  padding-left: auto;
+  padding-right: auto;
+  text-align: center;
+  font-size: 20px;
+}
+.waakye {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.waakye img {
+  height: 250px;
+  width: 250px;
+}
+/*.waakye h2 {
+  font-size: 25px;
+}*/
+
+.waakye a {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.jollof img {
+  height: 250px;
+  width: 250px;
+}
+.friedrice img {
+  height: 250px;
+  width: 250px;
+}
+.fufu img {
+  height: 250px;
+  width: 250px;
+}
+.banku img {
+  height: 250px;
+  width: 250px;
+}
+.kenkey img {
+  height: 250px;
+  width: 250px;
+}
